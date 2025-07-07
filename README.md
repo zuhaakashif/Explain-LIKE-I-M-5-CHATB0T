@@ -20,7 +20,7 @@ A fun and interactive Streamlit app that explains complex science topics like yo
 Ask something like:
 > **"What is a black hole?"**
 
-![Short Question Output](screenshots/short_question.png)
+![Short Question Output](short_question.png)
 
 ---
 
@@ -31,7 +31,7 @@ Paste something like:
 And get:
 > **"Plants are like tiny chefs who use sunlight to make sugar!"** 🌿☀️
 
-![Paragraph Output](screenshots/paragraph_example.png)
+![Paragraph Output](paragraph.png)
 
 ---
 
