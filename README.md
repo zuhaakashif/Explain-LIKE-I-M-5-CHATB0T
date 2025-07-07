@@ -26,10 +26,10 @@ Ask something like:
 
 ### 🟣 Example 2 – Scientific Paragraph
 Paste something like:
-> "Photosynthesis is a biochemical process that converts light energy into chemical energy..."
+> "Neurons are specialized cells in the brain and nervous system that transmit information using electrical impulses...."
 
 And get:
-> **"Plants are like tiny chefs who use sunlight to make sugar!"** 🌿☀️
+> **"Neurons are cute! They twist and turn to make you feel good.!"**
 
 ![Paragraph Output](paragraph.png)
 
